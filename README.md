@@ -5,7 +5,7 @@ This repository contains a training script for predicting molecule properties us
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.9+
 - PyTorch 1.8+
 - torchvision
 - numpy
