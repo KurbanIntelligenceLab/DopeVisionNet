@@ -18,7 +18,7 @@ This repository contains a training script for predicting molecule properties us
 1. Clone the repository:
 
     ```bash
-    git clone git@github.com:CalciumNitrade/DopeVisionNet.git
+    git clone git@github.com:KurbanIntelligenceLab/DopeVisionNet.git
     cd DopeVisionNet
     ```
 
