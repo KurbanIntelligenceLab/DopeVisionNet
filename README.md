@@ -65,3 +65,18 @@ The test script can be executed with various parameters. Below are the available
 ```bash
 python test.py --data_folder "/path/to/data" --csv_file "/path/to/csv" --batch_size 350 --root "/path/to/saved/models" --physicals normalized_homo normalized_lumo --device cuda
 ```
+
+### To Cite
+@article{KURBAN2024113248,
+title = {Enhancing the electronic properties of TiO2 nanoparticles through carbon doping: An integrated DFTB and computer vision approach},
+journal = {Computational Materials Science},
+volume = {244},
+pages = {113248},
+year = {2024},
+issn = {0927-0256},
+doi = {https://doi.org/10.1016/j.commatsci.2024.113248},
+url = {https://www.sciencedirect.com/science/article/pii/S0927025624004695},
+author = {Mustafa Kurban and Can Polat and Erchin Serpedin and Hasan Kurban},
+keywords = {C-doped TiO, DFTB, Computer vision, Electronic properties, Photocatalysis},
+}
+
