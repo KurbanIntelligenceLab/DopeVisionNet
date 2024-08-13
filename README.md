@@ -1,7 +1,7 @@
 # DopeVisionNet
-Here is the official repo for DopeVisionNet 
+Here is the official repo for DopeVisionNet (https://doi.org/10.1016/j.commatsci.2024.113248)
 
-This repository contains a training script for predicting molecule properties using a deep learning model. The script uses PyTorch for training and validation, with data preprocessing handled by custom dataloaders.
+This repository contains a training script for predicting molecule properties using DopeVisionNet. The script uses PyTorch for training and validation, with data preprocessing handled by custom dataloaders.
 
 ## Requirements
 
@@ -23,7 +23,7 @@ This repository contains a training script for predicting molecule properties us
     ```
 
 2. Install the required packages:
-
+    Install the required packages: Install PyTorch, torchvision and numpy via official webpage of PyTorch (https://pytorch.org/get-started/locally/). For the rest use the requirements.txt file
     ```bash
     pip install -r requirements.txt
     ```
