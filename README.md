@@ -1,5 +1,5 @@
 # DopeVisionNet
-Here is the official repo for DopeVisionNet (https://doi.org/10.1016/j.commatsci.2024.113248)
+Here is the official repo for DopeVisionNet [Enhancing the electronic properties of TiO2 nanoparticles through carbon doping: An integrated DFTB and computer vision approach](https://doi.org/10.1016/j.commatsci.2024.113248)
 
 This repository contains a training script for predicting molecule properties using DopeVisionNet. The script uses PyTorch for training and validation, with data preprocessing handled by custom dataloaders.
 
