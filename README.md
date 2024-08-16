@@ -1,7 +1,7 @@
 # DopeVisionNet
-Here is the official repo for [Enhancing the electronic properties of TiO2 nanoparticles through carbon doping: An integrated DFTB and computer vision approach](https://doi.org/10.1016/j.commatsci.2024.113248), DopeVisionNet
+Here is the official repo for [Enhancing the electronic properties of TiO2 nanoparticles through carbon doping: An integrated DFTB and computer vision approach](https://doi.org/10.1016/j.commatsci.2024.113248), DopeVisionNet by Mustafa Kurban, Can Polat, Erchin Serpedin, and Hasan Kurban. 
 
-This repository contains a training script for predicting molecule properties using DopeVisionNet. The script uses PyTorch for training and validation, with data preprocessing handled by custom dataloaders.
+This repository contains a training script for predicting molecule properties using DopeVisionNet. The script uses PyTorch for training and validation, with data preprocessing handled by custom dataloaders. The repo is maintained by Can Polat (CalciumNitrade)
 
 ## Requirements
 
